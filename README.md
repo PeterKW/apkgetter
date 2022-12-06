@@ -1,6 +1,6 @@
-# APKGrabber
-[APKGrabber](https://github.com/hemker/apkgrabber) which is a fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Big thanks and of course
-credits go to [rumboalla](https://github.com/rumboalla).
+# APKGetter
+APKGetter is a fork of [APKGrabber](https://github.com/hemker/apkgrabber) which is a fork of [APKUpdater](https://github.com/rumboalla/apkupdater). Big thanks and of course
+credits go to [hemker](https://github.com/hemker) [rumboalla](https://github.com/rumboalla).
 I try to develop new features and maintain the software to stay available on latest android devices,
 but don't expect weekly updates.
 
